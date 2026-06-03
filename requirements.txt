@@ -1,0 +1,5 @@
+requests #request webpage
+beautifulsoup4 #parse html into readable text
+openai #use gen ai model of openai
+python-dotenv #to load environment variables
+google-generativeai #google gemini model
